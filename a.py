@@ -11,9 +11,17 @@ arr = [
   6,
   7
 ]
-
 i = 1
 
 while i < 5 :
   print(i)
   i += 1
+  
+
+
+for i in "apple":
+  print(i)
+
+
+
+
