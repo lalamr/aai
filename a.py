@@ -23,6 +23,6 @@ for i in "apple":
   print(i)
 
 print(1)
-
+print(2)
 
 
