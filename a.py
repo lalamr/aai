@@ -21,6 +21,7 @@ while i < 5 :
 
 for i in "apple":
   print(i)
+  print('love')
 
 
 
