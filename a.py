@@ -22,7 +22,6 @@ while i < 5 :
 for i in "apple":
   print(i)
 
-print(1)
 print(2)
 
 
